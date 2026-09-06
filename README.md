@@ -1,0 +1,1 @@
+# THCS Dương Minh Châu – GitHub Pages\n\nUpload toàn bộ thư mục vào repository, bật GitHub Pages, sau đó vào Actions → Sync website → Run workflow lần đầu. Workflow tự chạy mỗi 30 phút.\n
